@@ -23,7 +23,7 @@
 
 ## 🔗 Know more about me 
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shreyaspatil.dev/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shobhit24.github.io/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:shobhitgoswami99@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-shobhit24-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/shobhit24/)
 [![Instagram](https://img.shields.io/badge/-shobhitgoswami99-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/shobhitgoswami99/)
