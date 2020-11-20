@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png?raw=true" />
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png?raw=true" height="200"/>
 </p>
 
 # Hi there👋! I'm [Shobhit](https://shobhit24.github.io/) 🙋‍♂️
