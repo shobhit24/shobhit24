@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png?raw=true" height="200"/>
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png?raw=true" height="350"/>
 </p>
 
 # Hi there👋! I'm [Shobhit](https://shobhit24.github.io/) 🙋‍♂️
@@ -16,7 +16,7 @@
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shobhit24&count_private=true&show_icons=true&include_all_commits=true" alt="Shobhit Goswami | Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shobhit24&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Shobhit Goswami github stats"/>
 </details>
 
 ---
