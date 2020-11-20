@@ -1,8 +1,8 @@
-<!--
+
 <p align="center">
-  <img src="?raw=true" height="200" />
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png?raw=true" />
 </p>
--->
+
 # Hi there👋! I'm [Shobhit](https://shobhit24.github.io/) 🙋‍♂️
 
 #### 🎍 Welcome to my hub 👨‍💻
