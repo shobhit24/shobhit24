@@ -7,7 +7,7 @@
 
 #### 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍🎓 21 year old Information Technology Engineering Undergrad student.
+- 👨‍🎓 20 year old Information Technology Engineering Undergrad student.
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 📱 Android developer.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin❤️Java !
