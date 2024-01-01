@@ -7,8 +7,8 @@
 
 #### 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍💻 SDE-1 @ZestMoney.
-- 👨‍💻 Mostly working on ❤️Dart ❤️Flutter ❤️Android ❤️Kotlin ❤️Java!
+- 👨‍💻 SDE @PhonePe
+- 👨‍💻 Mostly working on ❤️Android ❤️Kotlin ❤️Java ❤️Dart ❤️Flutter!
 - 🌐 Little bit exploring IOS development too.
 - Loves 🏀 and 🎵.
 
