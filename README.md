@@ -64,13 +64,14 @@
 
 ## 📌 Live Project
 
-### 📱 QuickSave (Quick Notes)
+### 📱 Quick Notes
 
-Smart content-saving app using Android share sheet — save links, images, files, and notes instantly.
+Lightweight Android app to quickly capture and organize content from any app via the share sheet.
 
-- ⚡ Share anything → instantly saved via Android Intent system  
-- 📦 Supports links, media, documents  
-- 🧠 Clean architecture + offline-first approach  
+- ⚡ Save links, images, and files instantly  
+- 🔎 Fast search with offline-first storage  
+- 💾 Backup & restore support  
+- 🔐 Fully local — no tracking, no sign-in  
 
 🔗 **Download App**  
 https://www.indusappstore.com/apps/productivity/quick-notes/com.shobhitgoswami.quicknotes/?page=details&id=com.shobhitgoswami.quicknotes
