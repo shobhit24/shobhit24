@@ -73,8 +73,15 @@ Lightweight Android app to quickly capture and organize content from any app via
 - 💾 Backup & restore support  
 - 🔐 Fully local — no tracking, no sign-in  
 
-🔗 **Download App**  
-https://www.indusappstore.com/apps/productivity/quick-notes/com.shobhitgoswami.quicknotes/?page=details&id=com.shobhitgoswami.quicknotes
+### 🔗 Get the App
+
+<p align="center">
+  <a href="https://indusapp.store/te9w282e">
+    <img alt="Get it on Indus Appstore" 
+         src="https://docstore.indusappstore.com/public/external/developerdashboard-static/badge-black-background-english.png"
+         height="60"/>
+  </a>
+</p>
 
 ---
 
